@@ -45,3 +45,11 @@ Run the pipeline to train the model and generate the evaluation dashboard:
 ```bash
 python main.py
 ```
+
+---
+
+## Results
+
+Upon execution, the script trains the model and outputs the following analysis dashboard:
+
+![Audio Scene Classification Results](audio_scene_results.png)
